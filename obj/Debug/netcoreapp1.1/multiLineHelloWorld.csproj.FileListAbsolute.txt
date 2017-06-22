@@ -1,0 +1,8 @@
+/Users/wayneburris/Desktop/Projects/C#Projects/multiLineHelloWorld/bin/Debug/netcoreapp1.1/multiLineHelloWorld.deps.json
+/Users/wayneburris/Desktop/Projects/C#Projects/multiLineHelloWorld/bin/Debug/netcoreapp1.1/multiLineHelloWorld.runtimeconfig.json
+/Users/wayneburris/Desktop/Projects/C#Projects/multiLineHelloWorld/bin/Debug/netcoreapp1.1/multiLineHelloWorld.runtimeconfig.dev.json
+/Users/wayneburris/Desktop/Projects/C#Projects/multiLineHelloWorld/bin/Debug/netcoreapp1.1/multiLineHelloWorld.dll
+/Users/wayneburris/Desktop/Projects/C#Projects/multiLineHelloWorld/bin/Debug/netcoreapp1.1/multiLineHelloWorld.pdb
+/Users/wayneburris/Desktop/Projects/C#Projects/multiLineHelloWorld/obj/Debug/netcoreapp1.1/multiLineHelloWorld.AssemblyInfo.cs
+/Users/wayneburris/Desktop/Projects/C#Projects/multiLineHelloWorld/obj/Debug/netcoreapp1.1/multiLineHelloWorld.dll
+/Users/wayneburris/Desktop/Projects/C#Projects/multiLineHelloWorld/obj/Debug/netcoreapp1.1/multiLineHelloWorld.pdb
